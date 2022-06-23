@@ -1,4 +1,5 @@
 {
+  
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/app",
@@ -15,4 +16,5 @@
     "src/test.ts",
     "src/**/*.spec.ts"
   ]
+
 }
